@@ -1,3 +1,10 @@
+'''
+
+    The following program is a Python code to generate First and Follow. 
+    @author="Shyam Makwana"
+
+'''
+
 def find_first(string):
 
     first_grammar = set()

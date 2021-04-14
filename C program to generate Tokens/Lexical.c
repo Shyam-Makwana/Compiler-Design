@@ -1,3 +1,10 @@
+/*
+
+    The following program is a C code to generate Tokens. 
+    @author="Shyam Makwana"
+
+*/
+
 #include<string.h>
 #include<stdio.h>
 

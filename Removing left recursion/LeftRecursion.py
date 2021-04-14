@@ -1,9 +1,9 @@
-"""
+'''
 
-The following Program is a Python Code for Removing Left Recursion.
-@author="Shyam Makwana"
+    The following program is a Python code for removing Left Recursion. 
+    @author="Shyam Makwana"
 
-"""
+'''
 
 # function for removing left Recursion
 

@@ -1,3 +1,10 @@
+'''
+
+    The following program is a Python code for recursive descent parser. 
+    @author="Shyam Makwana"
+
+'''
+
 print("\nRecursive Desent Parsing For following grammar\n")
 print("E->TE'\nE'->+TE'|^\nT->FT'\nT'->*FT'|^\nF->(E)|a\n")
 global inp

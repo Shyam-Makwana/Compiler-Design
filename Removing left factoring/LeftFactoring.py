@@ -1,9 +1,9 @@
-"""
+'''
 
-The following Program is a Python Code for Removing Left Factoring.
-@auther="Shyam Makwana"
+    The following program is a Python code for removing Left Factoring. 
+    @author="Shyam Makwana"
 
-"""
+'''
 
 #function for removing left Factoring
 def fact(nonterm,transition):
